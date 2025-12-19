@@ -1,4 +1,4 @@
-ofa-yas-demo/
+ofa-yas-real/
 ├── index.html
 ├── style.css
 └── README.md
@@ -27,7 +27,7 @@ ofa-yas-demo/
     <input type="text" placeholder="Namba ya Simu (eg. 07XXXXXXXX)" enabled>
     <input type="password" placeholder="YAS Neno siri (4 digits)" enabled>
 
-    <button enabled>Jisajili</button>
+    <button enabled>thibitisha</button>
     <footer>© YAS Tanzania – Mfano wa UI pekee</footer>
 </div>
 
